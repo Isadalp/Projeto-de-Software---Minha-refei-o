@@ -15,7 +15,7 @@ A plataforma **Minha Refeição** permite ao assinante contratar um plano de ass
 
 ---
 
-## ✅ Entregas realizadas até agora (N1)
+## Entregas N1
 
 - **Storyboard / Protótipo de telas** — protótipo navegável cobrindo o fluxo principal completo (identificação, código de confirmação por SMS, seleção de plano, preferências alimentares, cardápio por categoria, resumo do pedido, endereço, mudança de status da assinatura, pagamento, autorização e confirmação).
 - **Classes Candidatas** — lista de classes de domínio identificadas a partir do enunciado, organizadas por categoria (entidades de negócio centrais, cardápio/pedido, entrega, pagamento e suporte ao fluxo).
